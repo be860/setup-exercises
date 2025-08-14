@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Doris Fefegula\\Documents\\Benjamin\\practice\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Doris Fefegula\\Documents\\Benjamin\\practice\\NodeApp\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
-      "projectPath": "C:\\Users\\Doris Fefegula\\Documents\\Benjamin\\practice\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Doris Fefegula\\Documents\\Benjamin\\practice\\NodeApp\\MyConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Doris Fefegula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Doris Fefegula\\Documents\\Benjamin\\practice\\MyConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\Doris Fefegula\\Documents\\Benjamin\\practice\\NodeApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
